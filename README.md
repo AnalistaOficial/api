@@ -45,6 +45,10 @@ Após, você pode ir para o seu browser e verificar ou executar o comando abaixo
 
 curl http://127.0.0.1:8000/gerar_compras/10
 
+Para gerar o arquivo .json, execute o arquivo consumer.py. Após a execução, será criado um arquivo JSON contendo os dados obtidos da API no diretório ./data/compras.json.
+
+poetry run python ./src/consumer.py
+
 
 ### Conclusão
 
