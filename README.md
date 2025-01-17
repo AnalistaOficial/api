@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-O objetivo deste projeto é desenvolver uma API robusta, com foco na criação de endpoints que permitam a manipulação e o consumo de dados de forma eficiente. A API será projetada para fornecer funcionalidades específicas, permitindo que os dados sejam acessados, alterados e consumidos por sistemas externos. Além disso, o projeto abrange tanto a criação da API quanto a implementação de sua integração, garantindo que a comunicação entre os diversos componentes e o consumo de dados sejam realizados de maneira fluida e segura.
+O objetivo do projeto é criar uma API robusta, com foco na criação de endpoints que permitam a manipulação e o consumo de dados de forma eficiente. A API será projetada para fornecer funcionalidades específicas, permitindo que os dados sejam acessados, alterados e consumidos por sistemas externos de maneira fluida e segura. O projeto está utilizando a FastAPI do Python para a criação da API e, para testar suas funcionalidades, está gerando dados fake. Esses dados simulados serão apresentados pela API, permitindo a validação e o exercício dos endpoints criados, garantindo que a comunicação entre os componentes e o consumo de dados ocorram de maneira eficaz e segura.
 
 ![](https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/11/consumindo-api-python.png)
 
