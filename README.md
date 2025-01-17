@@ -35,7 +35,7 @@ Instale as dependências com o poetry para isolar as mesmas no seu ambiente virt
 
 poetry install
 
-Com o Poetry, execute o servidor com o seguinte comando:
+Com o Poetry, execute o serviço com o seguinte comando:
 
 poetry run uvicorn src.api:app --reload
 
