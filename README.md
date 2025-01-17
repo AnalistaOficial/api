@@ -8,7 +8,7 @@ O objetivo do projeto é criar uma API robusta, com foco na criação de endpoin
 
 ### Amostar dos dados
 
-![](img\amostra_json.png)
+![](./img/amostra_json.png)
 
 
 ### Dependências
@@ -17,3 +17,6 @@ O objetivo do projeto é criar uma API robusta, com foco na criação de endpoin
                 * Faker 33.3.1
                 * Fastapi 0.115.6
                 * Requests 2.32.3
+
+### Resultados
+
