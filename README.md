@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
+
 <h1 align="center">Projeto API</h1>
 
 ### Objetivo
