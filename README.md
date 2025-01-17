@@ -6,6 +6,27 @@ O objetivo do projeto é criar uma API robusta, com foco na criação de endpoin
 
 ![](https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/11/consumindo-api-python.png)
 
+### Amostar dos dados
+
+[
+  {
+    "client": "Lisa Collins",
+    "creditcard": "VISA 16 digit",
+    "product": "Up",
+    "ean": 8245789631456,
+    "price": 14.84,
+    "clientPosition": [
+      "36.02506",
+      "-86.77917",
+      "Brentwood Estates",
+      "US",
+      "America/Chicago"
+    ],
+    "store": 11,
+    "dateTime": "2015-04-07T19:33:05"
+  }
+]
+
 
 ### Dependências
                 
