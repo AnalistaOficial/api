@@ -43,3 +43,11 @@ Após, você pode ir para o seu browser e verificar ou executar o comando abaixo
 
 curl http://127.0.0.1:8000/gerar_compras/10
 
+
+### Conclusão
+
+Este projeto foi desenvolvido com o objetivo de criar uma API simples e funcional que permita a geração de dados fake e sua exportação para arquivos .json. Ele exemplifica uma abordagem prática para consumir APIs de forma eficiente, utilizando parâmetros para personalizar os resultados de acordo com as necessidades do usuário.
+
+A simplicidade do projeto demonstra como tecnologias como FastAPI, combinadas com ferramentas de gerenciamento como o Poetry, podem ser utilizadas para prototipar e testar aplicações de maneira ágil e eficaz. Além disso, o projeto serve como base para ampliar o conhecimento sobre a integração de APIs em fluxos reais de trabalho.
+
+Se você está buscando uma solução compacta para gerar e consumir dados simulados, este projeto é uma excelente referência inicial.
